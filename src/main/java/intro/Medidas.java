@@ -10,12 +10,11 @@ public class Medidas {
 
     // 3.2 - Métodos e Funções
     public static void main(String[] args){
-        System.out.println("Meu primeiro codigo em Java!"); // digitar sout
-
+        System.out.println("Cálculo de área"); // digitar sout
     }
 
     public void calcularAreaModoExtenso(){
-        // Calculo de area - Exemplo: o tamanho do tapete ou do pisoS
+        // Calculo de area - Exemplo: o tamanho do tapete ou do piso
 
         int largura;
         int comprimento;
